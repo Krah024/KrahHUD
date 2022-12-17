@@ -1,5 +1,5 @@
 KrahHUD (WIP)
-Made by Krah
+Made by Krah (obv)
 Originally made for 4:3 (stretched) But updated mainly for 16:9 (1920 x 1080) and should work on others.
 
 BTW FYI, Most parts in this hud are not (in any way, shape or form) mine.
