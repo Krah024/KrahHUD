@@ -8,6 +8,8 @@ so if you are reading this and/or using the hud (please) It seems I changed my m
 If there are bugs and whatnot, I probably won't have the time to fix them.
 or i'm just too lazy... yep.
 
+OH LOOK! SCREENSHOTS!
+
 
 ![KrahHUD Logo](https://user-images.githubusercontent.com/70738215/208268905-5bde4a2d-8afd-4841-8026-ddebb9dbac31.png)
 
